@@ -10,7 +10,7 @@
 
 ## 📚 Disciplina
 
-- Engenharia de Software Experimental
+- Programação Orientada a Objetos
 - Fabricio Tadeu Dias
 - 3 Período 
 
